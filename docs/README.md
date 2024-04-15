@@ -1,5 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/312531331/83fd5e80-9ec8-11eb-9b6a-210d761a536e" alt="Social Card of Laravel Payments">
-
+ 
 # Laravel Payments
 
 **Laravel Payments** is a flexible plans and subscription management system for Laravel. You can also schedule plan

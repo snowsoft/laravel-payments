@@ -1,7 +1,7 @@
 # Laravel Payments
 
 **Laravel Payments** is a flexible plans and subscription management system for Laravel. Originally forked
-from [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions).
+from [bpuig/laravel-subby](https://github.com/bpuig/laravel-subby) and [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions).
 
 ## What it does
 
