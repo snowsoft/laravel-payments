@@ -1,0 +1,64 @@
+{
+    "name": "snowsoft/laravel-payments",
+    "description": "Laravel payments is a flexible plans and subscription management system for Laravel.",
+    "type": "library",
+    "keywords": [
+        "plan",
+        "value",
+        "laravel",
+        "feature",
+        "database",
+        "recurring",
+        "subscription"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/snowsoft/laravel-payments/issues",
+        "source": "https://github.com/snowsoft/laravel-payments",
+        "docs": "https://github.com/snowsoft/laravel-payments/blob/master/README.md"
+    },
+    "authors": [
+        {
+            "name": "snowsoft"
+        }
+    ],
+    "require": {
+        "php": "^8.2 | ^8.3",
+        "laravel/framework": "^v9.0|^v10.0|^v11.0",
+        "doctrine/dbal": "^2.13.3|^3.1.4|^4.0"
+    },
+    "require-dev": {
+        "illuminate/console": "^9.0|^10.0|^11.0",
+        "illuminate/container": "^9.0|^10.0|^11.0",
+        "phpunit/phpunit": "^9.5.8|^10.0|^11.0",
+        "orchestra/testbench": "^7.0|^8.0|^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Snow\\Payments\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Snow\\Payments\\Tests\\": "tests",
+            "Snow\\Payments\\Tests\\Database\\Factories\\": "tests/Database/Factories"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+              "PaymentsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
