@@ -15,12 +15,12 @@ Click on each version to read documentation.
 
 | Laravel | Laravel Payments                               |
 |:--------|:-----------------------------------------------|
-| 11.x    | [v8.x](/v8.x/)                                 |
-| 10.x    | [v7.x](/v7.x/)                                 |
-| 9.x     | [v6.x](/v6.x/), [v7.x](/v7.x/)                 |
-| 8.x     | [v3.x](/v3.x/), [v4.x](/v4.x/), [v5.x](/v5.x/) |
-| 7.x     | [v4.x](/v4.x/)                                 |
-| 6.x     | [v4.x](/v4.x/)                                 |
+| 11.x    | [v8.x](/laravel-payments/v8.x/)                                 |
+| 10.x    | [v7.x](/laravel-payments/v7.x/)                                 |
+| 9.x     | [v6.x](/laravel-payments/v6.x/), [v7.x](/laravel-payments/v7.x/)                 |
+| 8.x     | [v3.x](/laravel-payments/v3.x/), [v4.x](/laravel-payments/v4.x/), [v5.x](/laravel-payments/v5.x/) |
+| 7.x     | [v4.x](/laravel-payments/v4.x/)                                 |
+| 6.x     | [v4.x](/laravel-payments/v4.x/)                                 |
 
 ## Changelog
 
