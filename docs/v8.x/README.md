@@ -34,7 +34,7 @@ Refer to the [Releases](https://github.com/snowsoft/laravel-payments/releases) f
 
 ## License
 
-Forked originally from [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions). Thank you for
+Forked originally from [bpuig/laravel-subby](https://github.com/bpuig/laravel-subby) and [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions). Thank you for
 creating the original!
 
 This software is released under [The MIT License (MIT)](LICENSE.md).

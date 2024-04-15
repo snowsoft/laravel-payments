@@ -25,7 +25,7 @@ Refer to the [Changelog](CHANGELOG.md) for a full history of the project.
 
 ## License<a name="license"></a>
 
-Forked originally from [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions). Thank you for
+Forked originally from [bpuig/laravel-subby](https://github.com/bpuig/laravel-subby) and [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions). Thank you for
 creating the original!
 
 This software is released under [The MIT License (MIT)](LICENSE.md).
