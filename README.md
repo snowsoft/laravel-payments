@@ -4,7 +4,7 @@
 **Laravel Payments** is a flexible plans and subscription management system for Laravel. You can also schedule plan
 changes.
 
-Originally forked from [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions).
+Originally forked from [bpuig/laravel-subby](https://github.com/bpuig/laravel-subby) and [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions).
 
 ## Documentation
 Find here the [documentation](https://snowsoft.github.io/laravel-payments/).
@@ -28,12 +28,12 @@ Refer to the [Releases](https://github.com/snowsoft/laravel-payments/releases) f
 
 ## License
 
-Forked originally from [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions). Thank you for
+Forked originally from [bpuig/laravel-subby](https://github.com/bpuig/laravel-subby) and [rinvex/laravel-subscriptions](https://github.com/rinvex/laravel-subscriptions). Thank you for
 creating the original!
 
 This software is released under [The MIT License (MIT)](LICENSE).
 
-&copy; 2020 - 2023 B. Puig, Some rights reserved.
+&copy; 2024 snowsoft, Some rights reserved.
 
 
 
